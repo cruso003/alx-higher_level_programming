@@ -1,4 +1,4 @@
-# A function that returns a tuple with the length of a string and its first character.
+#!/usr/bin/python3
 def multiple_returns(sentence):
     if len(sentence) == 0:
         first_char = None

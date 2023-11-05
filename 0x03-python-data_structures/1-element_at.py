@@ -1,4 +1,4 @@
-# A function that retrieves an element from a list like in C
+#!/usr/bin/python3
 def element_at(my_list, idx):
     if idx < 0 or idx > len(my_list):
         return (None)
